@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Magic Art",
+      "description": "Vimeo",
+      "image": "./assets/images/portfolio-1.jpg",
+      "link": "#",
+      "link2": "#2"
+    },
+    {
+      "title": "Bona Green",
+      "description": "YouTube",
+      "image": "./assets/images/portfolio-2.jpg",
+      "link": "#",
+      "link2": "#2"
+    },
+    {
+      "title": "Modern Design",
+      "description": "Dribbble",
+      "image": "./assets/images/portfolio-3.jpg",
+      "link": "#",
+      "link2": "in.htm"
+    }
+  ]
+  
