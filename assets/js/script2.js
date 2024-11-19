@@ -15,7 +15,7 @@ fetch('./projects.json')
             <figure class="card-banner img-holder" style="--width: 600; --height: 675;">
               <img src="${project.image}" width="600" height="675" loading="lazy" alt="${project.title}" class="img-cover">
             </figure>
-            <a href="${project.link}" class="card-content">
+            <a href="${project.link}" target="_blank" class="card-content">
            
               <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
               <h3 class="h3 card-title">${project.title}</h3>
